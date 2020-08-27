@@ -1,8 +1,10 @@
 ![Nord Vim: Midnight](assets/nord-vim-midnight.svg)
 
-This is an *unofficial* port of [Nord Vim](https://github.com/arcticicestudio/nord-vim) with a darker background for increased text contrast. *It's automatically kept up-to-date with releases from the upstream project.*
+This is an *unofficial* port of [Nord Vim](https://github.com/arcticicestudio/nord-vim) with a darker background for increased text contrast.
 
 ![Nord Theme Comparison](assets/nord-comparison.png)
+
+> *NOTE: This repo is automatically kept up-to-date with releases from the upstream project.*
 
 ## Installation
 
