@@ -6,7 +6,7 @@
 " Repository: https://github.com/jcypret/nord-vim-midnight
 " License: MIT
 
-let s:nord_vim_version="0.15.0"
+let s:nord_vim_version="0.16.0"
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 
 let s:nord0 = ["#242933", "NONE"]
