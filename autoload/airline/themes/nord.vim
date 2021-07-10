@@ -6,7 +6,7 @@
 " Repository: https://github.com/jcypret/nord-vim-midnight
 " License: MIT
 
-let s:nord_vim_version="0.16.0"
+let s:nord_vim_version="0.17.0"
 let g:airline#themes#nord#palette = {}
 
 let s:nord0_gui = "#242933"
