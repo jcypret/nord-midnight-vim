@@ -28,10 +28,10 @@ This "midnight" Nord port alters the standard Polar Night color palette to use f
   </tr>
   <tr>
     <td><img src="assets/nord-palette-spacer.png" alt="" /></td>
-    <td><img src="https://via.placeholder.com/80/2E3440/FFFFFF?text=+" alt="#2E3440" /></td>
-    <td><img src="https://via.placeholder.com/80/3B4252/FFFFFF?text=+" alt="#3B4252" /></td>
-    <td><img src="https://via.placeholder.com/80/434C5E/FFFFFF?text=+" alt="#434C5E" /></td>
-    <td><img src="https://via.placeholder.com/80/4C566A/FFFFFF?text=+" alt="#4C566A" /></td>
+    <td><img src="https://fakeimg.pl/80/2E3440?text=+" alt="#2E3440" /></td>
+    <td><img src="https://fakeimg.pl/80/3B4252?text=+" alt="#3B4252" /></td>
+    <td><img src="https://fakeimg.pl/80/434C5E?text=+" alt="#434C5E" /></td>
+    <td><img src="https://fakeimg.pl/80/4C566A?text=+" alt="#4C566A" /></td>
   </tr>
   <tr>
     <th colspan="5"></th>
@@ -47,10 +47,10 @@ This "midnight" Nord port alters the standard Polar Night color palette to use f
     <td></td>
   </tr>
   <tr>
-    <td><img src="https://via.placeholder.com/80/242933/FFFFFF?text=+" alt="#242933" /></td>
-    <td><img src="https://via.placeholder.com/80/2E3440/FFFFFF?text=+" alt="#2E3440" /></td>
-    <td><img src="https://via.placeholder.com/80/3B4252/FFFFFF?text=+" alt="#3B4252" /></td>
-    <td><img src="https://via.placeholder.com/80/434C5E/FFFFFF?text=+" alt="#434C5E" /></td>
+    <td><img src="https://fakeimg.pl/80/242933?text=+" alt="#242933" /></td>
+    <td><img src="https://fakeimg.pl/80/2E3440?text=+" alt="#2E3440" /></td>
+    <td><img src="https://fakeimg.pl/80/3B4252?text=+" alt="#3B4252" /></td>
+    <td><img src="https://fakeimg.pl/80/434C5E?text=+" alt="#434C5E" /></td>
     <td><img src="assets/nord-palette-spacer.png" alt="" /></td>
   </tr>
 </table>
